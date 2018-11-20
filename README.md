@@ -42,6 +42,9 @@ TODO: organize the content, rewrite them in JSON-LD / turtle / whathever RDF ser
 + http://kbpedia.org/
 + https://docs.data.world/tutorials/sparql/
 + https://publications.europa.eu/en/web/eu-vocabularies/
++ https://opencitations.wordpress.com/2018/11/19/coci-nov-2018-release/
+
+
 
 ## SPARQL endpoints
 
