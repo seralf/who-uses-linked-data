@@ -3,7 +3,11 @@ who uses linked data, actually?
 
 This is currently a disordered list of links related to linked data adoption (and usage), collected for fun (and hopefully some actual future use, why not?).
 
-TODO: organize the content, rewrite them in JSON-LD / turtle / whathever RDF serialization, costructing a giant knowledge base, domain the world maybe? :-)
+TODO: 
+- [ ] re-organize the content
+- [ ] rewrite them in JSON-LD / turtle / whathever RDF serialization you like
+- [ ] costructing a giant knowledge graph
+- [ ] domain the world maybe? :-)
 
 
 ## from the web
