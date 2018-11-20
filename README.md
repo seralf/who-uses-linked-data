@@ -1,6 +1,9 @@
 # who-uses-linked-data
 who uses linked data, actually?
 
+This is currently a disordered list of links related to linked data adoption (and usage), collected for fun (and hopefully some actual future use, why not?).
+
+TODO: organize the content, rewrite them in JSON-LD / turtle / whathever RDF serialization, costructing a giant knowledge base, domain the world maybe? :-)
 
 
 ## from the web
@@ -41,6 +44,7 @@ who uses linked data, actually?
 + https://publications.europa.eu/en/web/eu-vocabularies/
 
 ## SPARQL endpoints
+
 + http://sparqles.ai.wu.ac.at/availability
 
 
@@ -66,6 +70,7 @@ who uses linked data, actually?
 
 
 ## metadata
+
 + https://github.com/esd-org-uk/schemas
 + https://schemas.opendata.esd.org.uk/inventory/InventoryGuidance.pdf?v=1.0.0.2
 + https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html
