@@ -3,11 +3,20 @@ who uses linked data, actually?
 
 This is currently a disordered list of links related to linked data adoption (and usage), collected for fun (and hopefully some actual future use, why not?).
 
-TODO: 
+The idea of collecting this started from twitter:
+
++ https://twitter.com/GiorgiaLodi/status/1067693379759280128
++ https://twitter.com/Piersoft/status/1064995650352361472
+
+do you like to contribute? please send us a PR!
+
+**TODO**: 
 - [ ] re-organize the content
+- [ ] improve formatting, move to [SOD](https://github.com/spaghetti-open-data)
 - [ ] rewrite them in JSON-LD / turtle / whathever RDF serialization you like
 - [ ] costructing a giant knowledge graph
 - [ ] domain the world maybe? :-)
+
 
 
 ## from the web
@@ -25,6 +34,7 @@ TODO:
 + http://www.dataversity.net/volkswagen-das-auto-company-is-das-semantic-web-company/
 + http://www.dataversity.net/banking-fibo-financial-institutions-turn-standard-value-compliance/
 + https://www.ontotext.com/company/news/fujitsu-purchased-ontotext-graphdb-licences/?utm_source=linkedin&utm_campaign=social
++ https://twitter.com/aaranged/status/1067129402486444032
 
 * * *
 
