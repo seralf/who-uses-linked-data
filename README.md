@@ -20,6 +20,10 @@ TODO:
 + https://www.bbc.co.uk/academy/en/articles/art20130724121658626
 + https://www.nature.com/press_releases/linkeddata.html
 + https://www.ontotext.com/knowledgehub/webinars/cognitive-graph-analytics-webinar/?ref=email
++ https://essay.utwente.nl/67564/1/Kalcheva_MA_MB.pdf
++ https://www.ontotext.com/linked-data-solutions-fintech/
++ http://www.dataversity.net/volkswagen-das-auto-company-is-das-semantic-web-company/
++ http://www.dataversity.net/banking-fibo-financial-institutions-turn-standard-value-compliance/
 
 
 * * *
@@ -35,7 +39,7 @@ TODO:
 
 
 
-## notable dataset / knowledge graphs / etc
+## notable dataset / knowledge graphs / ontologies etc
 
 + https://wiki.dbpedia.org/
 + http://dbkwik.webdatacommons.org/
@@ -47,7 +51,7 @@ TODO:
 + https://docs.data.world/tutorials/sparql/
 + https://publications.europa.eu/en/web/eu-vocabularies/
 + https://opencitations.wordpress.com/2018/11/19/coci-nov-2018-release/
-
++ https://www.w3.org/wiki/GoodRelations
 
 
 ## SPARQL endpoints
