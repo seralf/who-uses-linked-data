@@ -33,7 +33,7 @@ do you like to contribute? please send us a PR!
 + https://www.ontotext.com/linked-data-solutions-fintech/
 + http://www.dataversity.net/volkswagen-das-auto-company-is-das-semantic-web-company/
 + http://www.dataversity.net/banking-fibo-financial-institutions-turn-standard-value-compliance/
-+ https://www.ontotext.com/company/news/fujitsu-purchased-ontotext-graphdb-licences/?utm_source=linkedin&utm_campaign=social
++ https://www.ontotext.com/company/news/fujitsu-purchased-ontotext-graphdb-licences/
 + https://twitter.com/aaranged/status/1067129402486444032
 
 * * *
