@@ -21,6 +21,7 @@ do you like to contribute? please send us a PR!
 
 ## from the web
 
++ https://digitalbazaar.com/2010/json-ld/
 + https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph
 + https://wiki.dbpedia.org/blog/dbpedia-databus-%E2%80%93-transforming-linked-data-networked-data-economy
 + https://twitter.com/vberkel/status/1064954733104955393
@@ -35,6 +36,8 @@ do you like to contribute? please send us a PR!
 + http://www.dataversity.net/banking-fibo-financial-institutions-turn-standard-value-compliance/
 + https://www.ontotext.com/company/news/fujitsu-purchased-ontotext-graphdb-licences/
 + https://twitter.com/aaranged/status/1067129402486444032
++ https://daverog.wordpress.com/2013/06/04/the-enduring-myth-of-the-sparql-endpoint/
++ http://manu.sporny.org/2014/json-ld-origins-2/
 
 * * *
 
@@ -72,6 +75,7 @@ do you like to contribute? please send us a PR!
 
 ## tools
 
++ http://linkeddatafragments.org/
 + https://gra.fo/
 + http://www.essepuntato.it/lode
 + https://github.com/dgarijo/Widoco
