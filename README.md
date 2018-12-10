@@ -38,6 +38,7 @@ do you like to contribute? please send us a PR!
 + https://twitter.com/aaranged/status/1067129402486444032
 + https://daverog.wordpress.com/2013/06/04/the-enduring-myth-of-the-sparql-endpoint/
 + http://manu.sporny.org/2014/json-ld-origins-2/
++ https://hal.inria.fr/hal-01935898/document
 
 * * *
 
