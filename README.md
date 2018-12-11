@@ -43,6 +43,7 @@ do you like to contribute? please send us a PR!
 + http://manu.sporny.org/2014/json-ld-origins-2/
 + https://hal.inria.fr/hal-01935898/document
 + https://www.linkedin.com/pulse/semantic-knowledge-graphs-versus-property-andreas-blumauer/
++ https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/
 
 * * *
 
