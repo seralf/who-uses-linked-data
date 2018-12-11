@@ -12,6 +12,9 @@ do you like to contribute? please send us a PR!
 
 **TODO**: 
 - [ ] re-organize the content
+  - define sections
+  - move contents in proper sections
+  - assign at least a title for each link, to improve readability
 - [ ] improve formatting, move to [SOD](https://github.com/spaghetti-open-data)
 - [ ] rewrite them in JSON-LD / turtle / whathever RDF serialization you like
 - [ ] costructing a giant knowledge graph
@@ -39,6 +42,7 @@ do you like to contribute? please send us a PR!
 + https://daverog.wordpress.com/2013/06/04/the-enduring-myth-of-the-sparql-endpoint/
 + http://manu.sporny.org/2014/json-ld-origins-2/
 + https://hal.inria.fr/hal-01935898/document
++ https://www.linkedin.com/pulse/semantic-knowledge-graphs-versus-property-andreas-blumauer/
 
 * * *
 
