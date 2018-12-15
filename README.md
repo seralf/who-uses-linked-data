@@ -45,6 +45,7 @@ do you like to contribute? please send us a PR!
 + https://www.linkedin.com/pulse/semantic-knowledge-graphs-versus-property-andreas-blumauer/
 + https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/
 
+
 * * *
 
 
@@ -71,7 +72,7 @@ do you like to contribute? please send us a PR!
 + https://publications.europa.eu/en/web/eu-vocabularies/
 + https://opencitations.wordpress.com/2018/11/19/coci-nov-2018-release/
 + https://www.w3.org/wiki/GoodRelations
-
++ https://searchenterpriseai.techtarget.com/feature/Knowledge-graph-applications-in-the-enterprise-gain-steam
 
 ## SPARQL endpoints
 
