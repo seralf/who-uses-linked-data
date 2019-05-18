@@ -47,6 +47,11 @@ do you like to contribute? please send us a PR!
 + https://impact.startupitalia.eu/2018/12/06/testi-latini-cloud/
 + https://jpsearch.go.jp/
 
+
+## from the web: knowledge graphs usage
+
++ https://www.computerworlduk.com/data/ft-turns-graph-technology-link-its-articles-other-information-3696694/
+
 * * *
 
 
