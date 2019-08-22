@@ -46,7 +46,7 @@ do you like to contribute? please send us a PR!
 + https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/
 + https://impact.startupitalia.eu/2018/12/06/testi-latini-cloud/
 + https://jpsearch.go.jp/
-
++ https://medium.com/@gpirrotta/di-obblighi-di-trasparenza-bussole-disorientate-e-felini-quantistici-cba20114d6f
 
 ## from the web: knowledge graphs usage
 
