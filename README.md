@@ -51,7 +51,9 @@ do you like to contribute? please send us a PR!
 ## from the web: knowledge graphs usage
 
 + https://www.computerworlduk.com/data/ft-turns-graph-technology-link-its-articles-other-information-3696694/
++ https://ai.googleblog.com/2019/09/recursive-sketches-for-modular-deep.html
 + https://www.slideshare.net/ConnectedDataLondon/building-and-communicating-a-knowledge-graph-in-zalando
+
 
 * * *
 
